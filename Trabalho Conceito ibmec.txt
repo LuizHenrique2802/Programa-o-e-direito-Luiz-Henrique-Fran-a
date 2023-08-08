@@ -1,0 +1,14 @@
+ALgoritimo: Conjuto de ordenamentos e instruções que uma máquina possui para executar funções.
+https://tecnoblog.net/responde/o-que-e-algoritmo/
+
+Jurimetria: É a estatistica que é aplicada no direito para analises simplificadas e diretas.
+https://www.projuris.com.br/blog/jurimetria/#:~:text=Jurimetria%20%C3%A9%20a%20estat%C3%ADstica%20aplicada,e%20valores%20envolvidos%20nestas%20an%C3%A1lises.
+
+Memoria (Computação) : É o que permite a maquina armazenar dados.
+https://www.guiafoca.org/guiaonline/iniciante/ch01s11.html#:~:text=A%20mem%C3%B3ria%20%C3%A9%20a%20parte,referindo%20a%20mem%C3%B3ria%20%22Principal%22.
+
+Neutralidade da Rede: Principio pelo qual o tráfico de internet tem que ser tratado igualmente sem qualquer tipo de restrição.
+https://agenciabrasil.ebc.com.br/geral/noticia/2017-12/entenda-o-que-e-neutralidade-de-rede-e-como-e-o-seu-funcionamento-no-brasil
+
+Servidor (Computação) : É um sistema de máquinas cujo o principal objetivo é oferecer serviços a outras máquinas.
+https://pt.wikipedia.org/wiki/Servidor
