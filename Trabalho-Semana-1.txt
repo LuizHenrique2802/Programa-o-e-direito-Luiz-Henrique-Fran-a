@@ -12,3 +12,18 @@ https://agenciabrasil.ebc.com.br/geral/noticia/2017-12/entenda-o-que-e-neutralid
 
 Servidor (Computação) : É um sistema de máquinas cujo o principal objetivo é oferecer serviços a outras máquinas.
 https://pt.wikipedia.org/wiki/Servidor
+
+MPF Ivestiga se algoritimo do INSS nega aposentadorias sem análise de mérito
+
+https://www.em.com.br/app/noticia/economia/2023/03/06/internas_economia,1465264/aposentadoria-mpf-mg-investiga-se-inss-negou-pedido-de-forma-automatizada.shtml
+
+Isso se trata de algo muito negativo, uma vez que um algoritimo com sua automatização se mostra ser incapaz de lidar e se adequar a uma processo tão importante para os cidadãos que é concessão da aposentadoria.
+
+A analise de crédito pode sim usar algoritimo uma vez que este pode identificar rapidamente potenciais riscos e fraudes, entretanto o ideal é que a descisão final seja dada por um ser humano uma vez que este está mais adequado  a tomar uma descisão tão importante.
+https://itera.com.br/artigos/inteligencia-artificial-na-analise-de-risco/#:~:text=Outro%20aspecto%20importante%20da%20IA,de%20fraude%20ou%20atividades%20ilegais.
+
+Sim uma vez que a lei demanda justificação para negativa de crédito.
+https://www.jusbrasil.com.br/noticias/busca?q=negativa+de+cr%C3%A9dito+sem+justificativa#:~:text=De%20acordo%20com%20os%20nossos,vir%20acompanhada%20de%20um%20motivo.
+
+É um método de inteligência artificial  que procura fazer com que computadoros processem dados de forma equivalente ao cérebro humano.
+https://aws.amazon.com/pt/what-is/neural-network/
