@@ -27,3 +27,14 @@ https://www.jusbrasil.com.br/noticias/busca?q=negativa+de+cr%C3%A9dito+sem+justi
 
 É um método de inteligência artificial  que procura fazer com que computadoros processem dados de forma equivalente ao cérebro humano.
 https://aws.amazon.com/pt/what-is/neural-network/
+
+A relação entre a LGPD  e os Data Centers no Brasil é uma conexão a qual  aborda a questão da privacidade e proteção de dados em um ambiente tecnológico em constante mudança. A LGPD é uma legislação que estabelece diretrizes para a coleta, armazenamento, processamento e compartilhamento de dados pessoais, com o objetivo de proteger a privacidade dos indivíduos e dar mais controle sobre suas informações pessoais.
+https://www.lgpdbrasil.com.br/veja-quais-sao-os-impactos-da-lgpd-para-os-data-centers/
+
+Os formatos de arquivos proprietários são desenvolvidos e comandaos  por empresas ou organizações específicas. Eles  não são completamente abertos e podem exigir software específico para acessar, visualizar ou manipular os dados contidos neles. 
+https://biblus.accasoftware.com/ptb/formatos-abertos-e-formatos-proprietarios-como-funciona-e-como-e-constituido-o-arquivo-ifc/#:~:text=Os%20formatos%20propriet%C3%A1rios%20s%C3%A3o%2C%20na,sistema%20capaz%20de%20process%C3%A1%2Dlas.
+Eles podem criar barreiras ao acesso aos dados, pois requerem ferramentas específicas, que podem ser pagas ou não, o que dificulta o acesso a um público mais amplo.
+
+Os formatos de arquivos abertos são amplamente aceitos pois não possuem barreiras significativas ao acesso.
+além disso permitem maior participação civil no espaço público.
+
