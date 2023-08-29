@@ -38,3 +38,13 @@ Eles podem criar barreiras ao acesso aos dados, pois requerem ferramentas espec�
 Os formatos de arquivos abertos são amplamente aceitos pois não possuem barreiras significativas ao acesso.
 além disso permitem maior participação civil no espaço público.
 
+JavaScript é uma linguagem compilada de alto nível usada para desenvolver jogos e sites,  é boa para iniciantes de programação.
+Phyton é uma linguagem de nível alto, funcionando de forma mais generalista, não usa recursos gráficos como chaves e colchetes.
+PHP, linguagem de uso geral e livre, voltada para criação de sistemas na web, como possui código aberto os desenvolvedores podem altera-la e aprimora-la livrimente.
+JavaScript executado com sucesso
+Phyton executado com sucesso
+PHP executado com sucesso
+
+
+
+
